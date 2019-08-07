@@ -1,0 +1,28 @@
+.rcorners {
+    margin-right: 10px;
+    padding-top: 20px;
+    border-radius: 25px;
+
+
+}
+
+
+.slider {
+    position: absolute;
+    bottom: 10px;
+    margin-right: 40px;
+    border: 3px solid transparent;
+}
+
+.bigger {
+    font-size: 20px;
+    margin-top: 30px;
+}
+.big{
+    margin-top: 30px;
+    padding-left: 15px;
+}
+
+.image{
+    margin-left: 100px
+}
